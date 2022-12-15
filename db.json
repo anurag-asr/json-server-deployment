@@ -2,40 +2,21 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "Name": "Gertrudis Tatterton",
+      "Age": 18,
+      "Gender": "male",
+      "Country":"india",
+      "Profession":"student"
     },
     {
       "id": 2,
       "name": "Gail Newbatt",
       "age": 53,
-      "email": "gnewbatt1@un.org"
-    },
-    {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
-    },
-    {
-      "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
-    },
-    {
-      "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
+       "Gender": "female",
+      "Country":"pakistan",
+      "Profession":"employed"
     }
+    
   ]
-  ,
-  "userid":{
-    "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
-  }
+
 }
